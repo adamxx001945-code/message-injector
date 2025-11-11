@@ -1,0 +1,14 @@
+{
+  "name": "Message Injector",
+  "description": "Inject fake messages in DMs from anyone (client-side only)",
+  "authors": [
+    {
+      "name": "Author",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_message_edit"
+  }
+}
